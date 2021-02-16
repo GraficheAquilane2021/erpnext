@@ -18,6 +18,17 @@ def get_data():
 			"onboard_present": 1
 		},
 		{
+			"module_name": "Fdl_ced",
+			"category": "Modules",
+			"label": _("FDL C.E.D."),
+			"color": "#1abc9c",
+			"icon": "fa fa-check-square-o",
+			"type": "module",
+			"disable_after_onboard": 1,
+			"description": "Fogli di lavoro del C.E.D.",
+			"onboard_present": 1
+		},
+		{
 			"module_name": "Accounts",
 			"category": "Modules",
 			"label": _("Accounting"),

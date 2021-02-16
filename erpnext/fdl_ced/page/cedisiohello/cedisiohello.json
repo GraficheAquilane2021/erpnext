@@ -1,0 +1,20 @@
+{
+ "content": null,
+ "creation": "2021-02-12 09:47:34.085138",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2021-02-12 09:47:34.085138",
+ "modified_by": "Administrator",
+ "module": "Fdl_ced",
+ "name": "cedisiohello",
+ "owner": "Administrator",
+ "page_name": "cedisioHello",
+ "restrict_to_domain": "Manufacturing",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Pagina di prova di cedisio"
+}

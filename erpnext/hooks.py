@@ -85,6 +85,7 @@ website_context = {
 
 website_route_rules = [
 	{"from_route": "/orders", "to_route": "Sales Order"},
+	{"from_route": "/hello", "to_route": "Hello"},
 	{"from_route": "/orders/<path:name>", "to_route": "order",
 		"defaults": {
 			"doctype": "Sales Order",
@@ -197,6 +198,7 @@ sounds = [
 ]
 
 has_website_permission = {
+	"Hello": "erpnext.controllers.website_list_for_contact.has_website_permission",
 	"Sales Order": "erpnext.controllers.website_list_for_contact.has_website_permission",
 	"Quotation": "erpnext.controllers.website_list_for_contact.has_website_permission",
 	"Sales Invoice": "erpnext.controllers.website_list_for_contact.has_website_permission",
