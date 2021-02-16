@@ -25,9 +25,9 @@
    "label": "Telefono"
   }
  ],
- "modified": "2021-02-04 10:45:42.621328",
+ "modified": "2021-02-10 15:54:25.352491",
  "modified_by": "Administrator",
- "module": "Selling",
+ "module": "Fdl_ced",
  "name": "Rubrica",
  "owner": "Administrator",
  "permissions": [
